@@ -25,8 +25,11 @@
             "name": "security-hooks",
             "source": {
                 "source": "github",
-                "repo": "JamesPrial/security-hooks"
-            }
+                "repo": "JamesPrial/security-hooks",
+                "ref": "releases",
+                "sha": "f945b2d922afb3409cb915a7dfdd5a8ccef63bf0"
+            },
+            "description": "PreToolUse hook that detects and blocks secrets in git commits"
         },
         {
             "name": "golang-workflow",
