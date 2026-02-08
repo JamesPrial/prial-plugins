@@ -9,7 +9,9 @@
             "name": "todo-log",
             "source": {
                 "source": "github",
-                "repo": "JamesPrial/todo-log"
+                "repo": "JamesPrial/todo-log",
+                "ref": "releases",
+                "sha": "PLACEHOLDER_UPDATE_AFTER_FIRST_RELEASE"
             }
         },
         {
