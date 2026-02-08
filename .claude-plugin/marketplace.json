@@ -27,6 +27,13 @@
                 "source": "github",
                 "repo": "JamesPrial/security-hooks"
             }
+        },
+        {
+            "name": "golang-workflow",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/golang-plugin"
+            }
         }
     ]
 }
