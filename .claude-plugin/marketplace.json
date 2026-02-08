@@ -1,0 +1,30 @@
+{
+    "name": "prial-plugins",
+    "owner": {
+        "name": "James Prial",
+        "email": "prialjames17@gmail.com"
+    },
+    "plugins": [
+        {
+            "name": "todo-log",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/todo-log"
+            }
+        },
+        {
+            "name": "version-control",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/version-control"
+            }
+        },
+        {
+            "name": "security-hooks",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/security-hooks"
+            }
+        }
+    ]
+}
