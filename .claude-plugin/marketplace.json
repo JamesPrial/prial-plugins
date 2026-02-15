@@ -51,6 +51,13 @@
                 "source": "github",
                 "repo": "JamesPrial/deep-research"
             }
+        },
+        {
+            "name": "bumper",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/bumper"
+            }
         }
     ]
 }
