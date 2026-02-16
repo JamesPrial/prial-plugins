@@ -58,6 +58,13 @@
                 "source": "github",
                 "repo": "JamesPrial/bumper"
             }
+        },
+        {
+            "name": "openclaw-assist",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/openclaw-assist"
+            }
         }
     ]
 }
