@@ -65,6 +65,13 @@
                 "source": "github",
                 "repo": "JamesPrial/openclaw-assist"
             }
+        },
+        {
+            "name": "unraid-assistant",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/openclaw-assist"
+            }
         }
     ]
 }
