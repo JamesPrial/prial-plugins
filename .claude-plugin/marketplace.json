@@ -70,7 +70,14 @@
             "name": "unraid-assistant",
             "source": {
                 "source": "github",
-                "repo": "JamesPrial/openclaw-assist"
+                "repo": "JamesPrial/unraid-assistant"
+            }
+        },
+        {
+            "name": "claudebot",
+            "source": {
+                "source": "github",
+                "repo": "JamesPrial/claudebot"
             }
         }
     ]
